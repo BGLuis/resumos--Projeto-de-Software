@@ -22,19 +22,19 @@ Resumos de artigos pedidos pelo professor [João Aramuni](https://github.com/joa
 
 # 🤝 Contribuidores
 
- <a href = "https://github.com/bgluis/template-readme/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=bgluis/template-readme"/>
+ <a href = "https://github.com/bgluis/resumos--Projeto-de-Software/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=bgluis/resumos--Projeto-de-Software"/>
  </a>
 
-[repossitory-path]: bgluis/template-readme/
-[contributors-shield]: https://img.shields.io/github/contributors/bgluis/template-readme.svg?style=for-the-badge
-[contributors-url]: https://github.com/bgluis/template-readme/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/bgluis/template-readme.svg?style=for-the-badge
-[forks-url]: https://github.com/bgluis/template-readme/network/members
-[stars-shield]: https://img.shields.io/github/stars/bgluis/template-readme.svg?style=for-the-badge
-[stars-url]: https://github.com/bgluis/template-readme/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bgluis/template-readme.svg?style=for-the-badge
-[issues-url]: https://github.com/bgluis/template-readme/issues
-[license-shield]: https://img.shields.io/github/license/bgluis/template-readme.svg?style=for-the-badge
-[license-url]: https://github.com/bgluis/template-readme/blob/master/LICENSE.txt
+[repossitory-path]: bgluis/resumos--Projeto-de-Software/
+[contributors-shield]: https://img.shields.io/github/contributors/bgluis/resumos--Projeto-de-Software.svg?style=for-the-badge
+[contributors-url]: https://github.com/bgluis/resumos--Projeto-de-Software/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bgluis/resumos--Projeto-de-Software.svg?style=for-the-badge
+[forks-url]: https://github.com/bgluis/resumos--Projeto-de-Software/network/members
+[stars-shield]: https://img.shields.io/github/stars/bgluis/resumos--Projeto-de-Software.svg?style=for-the-badge
+[stars-url]: https://github.com/bgluis/resumos--Projeto-de-Software/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bgluis/resumos--Projeto-de-Software.svg?style=for-the-badge
+[issues-url]: https://github.com/bgluis/resumos--Projeto-de-Software/issues
+[license-shield]: https://img.shields.io/github/license/bgluis/resumos--Projeto-de-Software.svg?style=for-the-badge
+[license-url]: https://github.com/bgluis/resumos--Projeto-de-Software/blob/master/LICENSE.txt
 [Markdown.io]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
