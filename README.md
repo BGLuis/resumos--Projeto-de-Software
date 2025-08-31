@@ -20,6 +20,7 @@ Resumos de artigos pedidos pelo professor [João Aramuni](https://github.com/joa
 
 -   [Resumo: The Big Ball of Mud](The-Big-Ball-of-Mud.md)
 -   [Resumo: Microservices](Microservices.md)
+-   [Resumo: No Silver Bullet](No-Silver-Bullet-Essence-and-Accidents-of-Software-Engineering.md)
 
 # 🤝 Contribuidores
 
