@@ -35,7 +35,9 @@ Para ilustrar sua tese, o artigo apresenta um sistema de índice KWIC (Key Word 
 
 ### Analize das abordagens
 
-{{TEXT}}
+A análise da primeira abordagem, baseada em fluxograma, revela fragilidades significativas. Sua flexibilidade é baixa, pois uma mudança em uma decisão de projeto central, como o formato de armazenamento de dados, se propaga por quase todos os módulos, que dependem de uma estrutura de dados compartilhada. O desenvolvimento independente é dificultado, uma vez que as equipes precisam primeiro concordar com as complexas interfaces de dados em um esforço conjunto, atrasando o início do trabalho paralelo. Além disso, a compreensibilidade é baixa, pois para entender o funcionamento de um módulo, é necessário conhecer os detalhes internos dos outros, tornando o sistema compreensível apenas como um todo.
+
+Em contraste, a segunda abordagem, baseada na ocultação de informação, demonstra ser superior em todos os aspectos. Ela oferece alta flexibilidade, pois o impacto de uma mudança é isolado dentro do módulo que "oculta" a decisão de projeto correspondente. O desenvolvimento independente é facilitado por interfaces abstratas e simples (nomes de funções e parâmetros), permitindo que o trabalho comece muito mais cedo e com menos comunicação entre as equipes. A compreensibilidade também é alta, pois cada módulo pode ser estudado e entendido de forma isolada através de sua interface bem definida, sem a necessidade de conhecer os detalhes de implementação dos outros.
 
 ## Princípios para uma Boa Decomposição
 
