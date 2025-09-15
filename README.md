@@ -22,6 +22,7 @@ Resumos de artigos pedidos pelo professor [João Aramuni](https://github.com/joa
 -   [Resumo: Microservices](Microservices.md)
 -   [Resumo: No Silver Bullet](No-Silver-Bullet-Essence-and-Accidents-of-Software-Engineering.md)
 -   [Resumo: Criteria for Modularization](Criteria-for-Modularization.md)
+-   [Resumo: Software Architecture A Roadmap](Software-Architecture-A-Roadmap-1.md)
 
 # 🤝 Contribuidores
 
