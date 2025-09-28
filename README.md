@@ -24,6 +24,7 @@ Resumos de artigos pedidos pelo professor [João Aramuni](https://github.com/joa
 -   [Resumo: Criteria for Modularization](Criteria-for-Modularization.md)
 -   [Resumo: Software Architecture A Roadmap](Software-Architecture-A-Roadmap-1.md)
 -   [Resumo: Hotspot Patterns](Hotspot-Patterns.md)
+-   [Resumo: DDD Reference](DDD_Reference.md)
 
 # 🤝 Contribuidores
 
