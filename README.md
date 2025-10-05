@@ -25,6 +25,7 @@ Resumos de artigos pedidos pelo professor [João Aramuni](https://github.com/joa
 -   [Resumo: Software Architecture A Roadmap](Software-Architecture-A-Roadmap-1.md)
 -   [Resumo: Hotspot Patterns](Hotspot-Patterns.md)
 -   [Resumo: DDD Reference](DDD_Reference.md)
+-   [Resumo: Managing Technical Debt](Managing-Technical-Debt.md)
 
 # 🤝 Contribuidores
 
