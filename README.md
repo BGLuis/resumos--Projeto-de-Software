@@ -27,6 +27,7 @@ Resumos de artigos pedidos pelo professor [João Aramuni](https://github.com/joa
 -   [Resumo: DDD Reference](DDD_Reference.md)
 -   [Resumo: Managing Technical Debt](Managing-Technical-Debt.md)
 -   [Resumo: Documenting Architecture Decisions](Documenting-Architecture-Decisions.md)
+-   [Resumo: Hexagonal architecture](Hexagonal-architecture.md)
 
 # 🤝 Contribuidores
 
